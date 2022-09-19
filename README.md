@@ -1,7 +1,7 @@
 # Proyecto-ALBOS
 Aquí estaremos creando y guardando todo lo relacionado al proyecto.
 
-#*Integrantes:* 
+#**Integrantes** 
 - Cristhian Said Gálvez Espinoza 24155 
 - Samuel Benjamín Lanza Valladares 24035
 - Lissy Marie Licona Pineda 24259
